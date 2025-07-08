@@ -1,0 +1,32 @@
+.btn {
+    font-size: 24px;
+    font-weight: 700;
+    background-color: yellow;
+    padding: 10px 20px;
+    margin: 40px;
+    border: none;
+    cursor: pointer;
+}
+.text {
+    font-size: 18px;
+    font-style: italic;
+    text-transform: uppercase;
+}
+.btn:hover {
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-weight: 600;
+    padding: 15px 25px;
+}
+.btn:focus {
+    background-color: rgb(9, 255, 0);
+    color: rgb(128, 38, 113);
+    font-size: 30px;
+    padding: 15px 25px;
+}
+p {
+    font-size: 25px;
+    color: grey;
+    font-weight: 700;
+    }
